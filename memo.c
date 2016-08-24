@@ -11,6 +11,7 @@ int memo(){
 	printf("test6 from memo.\n");
 	printf("test7 from memo.\n");
 	printf("test8 from memo.\n");
+	printf("test9 from memo.\n");
   
 	return 0;
 }
